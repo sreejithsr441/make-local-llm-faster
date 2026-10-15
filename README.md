@@ -17,7 +17,7 @@ The numbers in that table come from other people's published benchmarks (sources
 ## Quick start
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ring-zero-examples
+git clone https://github.com/sreejithsr441/make-local-llm-faster.git
 cd ring-zero-examples/make-local-llm-faster
 python3 race.py --list          # which models each server can see
 ./runs.sh 1                     # setting 1: quantization (pulls two Qwen3.5 9B tags)
